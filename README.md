@@ -14,10 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohanapranes/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mohanapranes/" height="30" width="40" /></a>
-<a href="https://instagram.com/o_k__k_a_n_m_a_n_i" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="o_k__k_a_n_m_a_n_i" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/i_am_mpw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="i_am_mpw" height="30" width="40" /></a>
-<a href="https://leetcode.com/i_am_mpw/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="i_am_mpw" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohanapranes/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="mohanapranes/" height="30" width="40" /></a>
+<a href="https://instagram.com/o_k__k_a_n_m_a_n_i" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="o_k__k_a_n_m_a_n_i" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/i_am_mpw" target="blank"><img align="center" src="https://cdn.codechef.com/sites/default/files/uploads/pictures/811b20a47eac52b10c90ab82e0628e21.png" alt="i_am_mpw" height="30" width="40" /></a>
+<a href="https://leetcode.com/i_am_mpw/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="i_am_mpw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
