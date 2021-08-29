@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently **Developing My Skills**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohanapranes](https://github.com/nishanth023)
 
 - 📫 How to reach me **mohanapraneswaran@gmail.com**
 
