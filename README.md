@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohanapraneswaran</h1>
-<h3 align="center">A Sophmore love to learn new things And explore different fields on my interest.</h3>
+<h3 align="center">Student. A self-taught developer with an
+interest in Computer Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanth023&label=Profile%20views&color=0e75b6&style=flat" alt="nishanth023" /> </p>
 
