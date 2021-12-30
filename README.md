@@ -2,7 +2,7 @@
 <h3 align="center">Student. A self-taught developer with an
 interest in Computer Science.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanth023&label=Profile%20views&color=0e75b6&style=flat" alt="nishanth023" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanth023&label=Profile%20views&color=0e75b6&style=flat" alt="mohanapranes" /> </p>
 
 - 🔭 I’m currently **Developing My Skills**
 
