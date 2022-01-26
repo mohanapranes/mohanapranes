@@ -10,7 +10,7 @@ interest in Computer Science.</h3>
 - 📫 How to reach me **mohanapraneswaran@gmail.com**
 
 
-- ⚡ **It time to shine**
+- ⚡ **It's time to shine**
 
 <h3 align="left">💻 Connect with me:</h3>
 <p align="left">
