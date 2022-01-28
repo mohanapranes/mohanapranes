@@ -33,6 +33,6 @@ interest in Computer Science.</h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanapranes&layout=demo" /> 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+
 ```
 <!--END_SECTION:waka-->
