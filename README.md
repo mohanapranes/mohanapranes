@@ -5,7 +5,8 @@ interest in Computer Science.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanth023&label=Profile%20views&color=0e75b6&style=flat" alt="mohanapranes" /> </p>
 
 - 🔭 I’m currently **Developing My Skills**
-
+- :desktop_computer: I'm currently working on mobile and web app development
+- :book: I'm currently learning full stack,docker,react.js, rust
 
 - 📫 How to reach me **mohanapraneswaran@gmail.com**
 
@@ -20,17 +21,24 @@ interest in Computer Science.</h3>
 <a href="https://leetcode.com/i_am_mpw/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="i_am_mpw" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🛠️ Tech stack:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.javascript.com/" target="_blank"> <img src="https://www.feroot.com/wp-content/uploads/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a>
-</p>
+## Tech stack :hammer_and_wrench:
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanapranes&layout=demo"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanapranes&layout=demo" /> 
+![c](https://img.icons8.com/color/96/000000/c-programming.png)
+![cpp](https://img.icons8.com/color/96/000000/c-plus-plus-logo.png)
+![css](https://img.icons8.com/color/96/000000/linux.png)
+![mysql](https://img.icons8.com/color/96/000000/mysql-logo.png)
+<br>
+![js](https://img.icons8.com/color/96/000000/javascript.png)
+![react](https://img.icons8.com/color/96/000000/react-native.png)
+![nodejs](https://img.icons8.com/fluency/96/000000/node-js.png)
+![python](https://img.icons8.com/color/96/000000/python--v1.png)
+<br>
+![rust](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-shadow-tal-revivo.png)
+![git](https://img.icons8.com/color/96/000000/git.png)
+![docker](https://img.icons8.com/fluency/96/000000/docker.png)
+
+
 <!--START_SECTION:waka-->
 ```text
 JavaScript   1 hr 47 mins    █████████████████████░░░░   84.48 % 
