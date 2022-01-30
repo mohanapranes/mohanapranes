@@ -33,6 +33,7 @@ interest in Computer Science.</h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanapranes&layout=demo" /> 
 <!--START_SECTION:waka-->
 ```text
-
+JavaScript   1 hr 47 mins    █████████████████████░░░░   84.48 % 
+JSON         19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 % 
 ```
 <!--END_SECTION:waka-->
