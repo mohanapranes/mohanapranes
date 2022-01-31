@@ -39,9 +39,4 @@ interest in Computer Science.</h3>
 ![docker](https://img.icons8.com/fluency/96/000000/docker.png)
 
 
-<!--START_SECTION:waka-->
-```text
-JavaScript   1 hr 47 mins    █████████████████████░░░░   84.48 % 
-JSON         19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-```
-<!--END_SECTION:waka-->
+
