@@ -42,8 +42,6 @@ interest in Computer Science.</h3>
 
 <!--START_SECTION:waka-->
 ```text
-Total: 10 hrs 37 mins
-
 JavaScript   8 hrs 47 mins   ████████████████████▓░░░░   82.75 % 
 Rust         1 hr 20 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
 JSON         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
