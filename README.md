@@ -43,9 +43,10 @@ interest in Computer Science.</h3>
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 14 mins    ██████████████████▒░░░░░░   73.42 %
-C++          26 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.06 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+JavaScript   1 hr 44 mins    ██████████████████▓░░░░░░   74.57 %
+C++          26 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.69 %
+JSON         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
