@@ -39,12 +39,3 @@ interest in Computer Science.</h3>
 ![docker](https://img.icons8.com/fluency/96/000000/docker.png)
 
 
-## 💻 **This Week I Spent My Time On**
-<!--START_SECTION:waka-->
-
-```text
-C++   17 mins         █████████████████████▒░░░   85.82 %
-C     2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.18 %
-```
-
-<!--END_SECTION:waka-->
