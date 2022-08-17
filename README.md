@@ -37,6 +37,5 @@ interest in Computer Science.</h3>
 ![rust](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-shadow-tal-revivo.png)
 ![git](https://img.icons8.com/color/96/000000/git.png)
 ![docker](https://img.icons8.com/fluency/96/000000/docker.png)
-
-<br>
 ![java](https://img.icons8.com/color/96/000000/java.png)
+
