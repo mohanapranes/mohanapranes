@@ -22,7 +22,7 @@ interest in Computer Science.</h3>
 </p>
 
 ## Tech stack :hammer_and_wrench:
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanapranes&layout=demo&hide=Jupyter%20Notebook&hide=css"/>
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanapranes&layout=demo&hide=Jupyter%20Notebook,css"/>
 
 ![c](https://img.icons8.com/color/96/000000/c-programming.png)
 ![cpp](https://img.icons8.com/color/96/000000/c-plus-plus-logo.png)
