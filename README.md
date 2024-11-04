@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohanapraneswaran</h1>
-<h3 align="center">Student. A self-taught developer with an
-interest in Computer Science.</h3>
+<h3 align="center">Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanapranes&label=Profile%20views&color=0e75b6&style=flat" alt="mohanapranes" /> </p>
 
