@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohanapraneswaran</h1> 
-<h3 align="center">🚀 Coder by day, dreamer by night! </h3>
+<h3 align="center">🚀 Your friendly neighborhood developer! </h3>
 
 💡 I’m all about crafting solutions, sharing knowledge, and exploring the endless universe of tech.  
 
@@ -40,8 +40,6 @@ I'm armed with an arsenal of powerful tools and languages, ready to tackle chall
 And more tools in my Batcave 🦇! 
 
 ## 📊 GitHub Stats  
-
-Because numbers are fun, especially when they show off cool stuff:  
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mohanapranes&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohanapranes&exclude_repo=flower-lens,RandomForestJulia&hide=html&layout=compact&theme=radical)
