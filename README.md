@@ -42,7 +42,7 @@ And more tools in my Batcave 🦇!
 ## 📊 GitHub Stats  
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mohanapranes&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohanapranes&exclude_repo=flower-lens,RandomForestJulia&hide=html&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohanapranes&exclude_repo=flower-lens,RandomForestJulia,keycloak-admin-ui&hide=html&layout=compact&theme=radical)
 
 ---
 
