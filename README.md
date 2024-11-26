@@ -11,7 +11,7 @@ Hey there! 🙌 I'm Mohan, your friendly neighborhood developer who loves **turn
 - 🔭 Currently on a mission to build cool apps that make life easier!  
 - 🌱 Always leveling up my skills—right now, I'm diving into the world of **Java**, **Go** And **Rust**🌩️🚀.  
 - 🎯 Fun challenges? Count me in! Whether it's debugging a nasty issue or cracking a coding puzzle, I'm game! 🎮💡  
-- 💬 Ask me about **Java**, **Spring Boot**, **Quarkus**, or how to make the perfect cup of masala chai 🍵!  
+- 💬 Ask me about **Java**, **Spring Boot**, **Quarkus**, or how to make the perfect cup of chai 🍵!  
 - 🛤️ Outside of work, you'll find me exploring the outdoors 🚴‍♂️, or getting lost in a great book 📚.  
 - 📫 How to reach me **mohanapraneswaran@gmail.com**
 - ⚡ **It's time to shine**
